@@ -1,0 +1,133 @@
+.full-body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0%;
+}
+
+.along-photo{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+ #wellcome{
+     
+    font-size: 40px;
+ }
+ #orange-color{
+     color: orange;
+ }
+ .half-width{
+     width: 50%;
+     text-align: justify;
+     margin-top: 5%;
+     padding-left: 10%;
+ 
+ }
+ .half-width img{
+    width:  65%;
+    margin-left: 110px;
+    margin-top:12% ;
+    margin-right: 5%;
+ }
+ p{
+     color: gray;
+ }
+ .decoration-button{
+     text-decoration: none;
+    background-image: linear-gradient(red, tomato);  
+    padding: 10px 14px; 
+    color:honeydew;
+    font-weight: 700;
+    border-radius: 7px;
+ }
+ .background-image{
+     background-image: url(photo/top-banner.png);
+     background-repeat: no-repeat;
+ }
+ .section-2{
+     display: flex;
+     background-image: url(photo/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+     margin-bottom: 40px;
+ }
+ .d2half-width{
+     width: 50%;
+     margin: 5%;
+     padding:5%;
+     text-align: justify;
+     
+}
+.d2half-width-1{
+    margin-right: 10px;
+    width: 50%;
+    margin: 5%;
+    padding:5%;
+    text-align: justify;
+    
+}
+.d2half-width img{
+    width: 50%;
+    margin-left: 50px;
+    
+}
+.decorating-button-2{
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    padding: 10px 14px;
+    font-weight: 700;
+    border-radius: 05px;
+}
+
+
+#section-03{
+    font-size: 40px;
+    font-weight: 900;
+}
+.section-3{
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(photo/exp-bg.png);
+    background-position: left;
+    text-align: justify;
+    margin-bottom: 200px;
+
+}
+
+ .half-width-3{
+    width: 40%;
+    border-radius: 20px;
+    text-align: justify;
+    margin-top: 25px;
+    margin-right: 5%;
+    margin-right:5% ;
+    padding-left: 10%;
+    padding-right: 10px;
+    box-shadow: 30px 30px 20px gray;
+    
+}
+#Mazing-Man{
+    
+     border-left: 8px solid;
+     border-radius: 10px;
+     border-image: linear-gradient(blue, cyan);
+     border-image-slice: 1;
+     
+}
+#Adam-Strange{
+    margin-left:40px ;
+    border-left: 8px solid;
+    border-radius: 10px;
+    border-image: linear-gradient( red, tomato);
+    border-image-slice: 1;
+    
+     
+}
+footer p {
+    font-weight: 600;
+    text-align: center;
+}
+
+
+
+
+
